@@ -1,5 +1,5 @@
-# forceporousZones
-To output the porous forces saperately for a given porous cellZone ID. 
+# forcePorousZones
+A duplicate for function object forces in openFoam to output the porous forces saperately for given porous cellZone IDs. 
 Compatible with OF version : 8.0
 Instructions to install :  
 download the files to the use directory of openFoam. 
